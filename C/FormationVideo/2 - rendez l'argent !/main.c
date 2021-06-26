@@ -1,3 +1,13 @@
+/**
+ * @file main.c
+ * @author 5IGI0
+ * @brief excercise 2 formationVideo (https://www.youtube.com/watch?v=OQP3kgexXtU)
+ * @version 0.1
+ * @date 2021-06-26
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include <stdio.h>
 
 int main(void) {
